@@ -1,3 +1,3 @@
-let message: string = 'HELLO RURI';
+let message: string = 'HELLO ICHIGYO';
 console.log({message});
 
